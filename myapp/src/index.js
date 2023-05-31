@@ -1,3 +1,4 @@
+/*  importation de la bibliothèque React*/
 import React from 'react';
 /*  importation de la bibliothèque ReactDOM */
 import ReactDOM from 'react-dom/client';
@@ -5,6 +6,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 /*  importation du composant App */
 import App from './App';
+/*  importation du composant App */
 import reportWebVitals from './reportWebVitals';
 /*   */
 const root = ReactDOM.createRoot(document.getElementById('root'));
