@@ -4,7 +4,7 @@ import React from 'react'
 import i1 from '../Profile/Assets/1.jpg';
 /*importation du fichier css de l image*/
 import '../Image.css';
-/*iFonction ProfilePhoto*/
+/*Fonction ProfilePhoto*/
 const ProfilePhoto = () => {
   return (
     <div>
