@@ -1,5 +1,6 @@
+/*importation de la bibliothèque react*/
 import React from 'react'
-
+/*Fonction FullName*/
 const FullName = () => {
   return (
     <div>
