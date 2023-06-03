@@ -1,12 +1,12 @@
-/*  importation de la bibliothèque React*/
+/* importation de la bibliothèque React*/
 import React from 'react';
-/*  importation de la bibliothèque ReactDOM */
+/* importation de la bibliothèque ReactDOM */
 import ReactDOM from 'react-dom/client';
-/*  importation du fichier css */
+/* importation du fichier css */
 import './index.css';
-/*  importation du composant App */
+/* importation du composant App */
 import App from './App';
-/*  importation de la fonction reportWebVitals pour la mesure de performance de l'application */
+/* importation de la fonction reportWebVitals pour la mesure de performance de l'application */
 import reportWebVitals from './reportWebVitals';
 /* Création du rendu de l'application */
 const root = ReactDOM.createRoot(document.getElementById('root'));
