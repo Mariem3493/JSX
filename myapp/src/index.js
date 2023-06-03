@@ -6,9 +6,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 /*  importation du composant App */
 import App from './App';
-/*  importation du composant App */
+/*  importation de la fonction reportWebVitals pour la mesure de performance de l'application */
 import reportWebVitals from './reportWebVitals';
-/*   */
+/* Création du rendu de l'application */
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
